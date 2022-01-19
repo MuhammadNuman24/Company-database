@@ -1,0 +1,8 @@
+
+  
+ Select * FROM  Employee;
+ Insert into Employee values (01,'Abdullah' , '2');
+  Insert into Employee values (02,'Sufyan' , '1');
+   Insert into Employee values (03,'Numan' , '1');
+    Insert into Employee values (05,'Zain' , '3');
+	 Insert into Employee values (04,'Bilal' , '2');
